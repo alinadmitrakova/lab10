@@ -1,0 +1,32 @@
+[
+    {
+        "css": "skill-html",
+        "skillName": "HTML",
+        "skillLevel": 90
+    },
+    {
+        "css": "skill-css",
+        "skillName": "CSS",
+        "skillLevel": 20
+    },
+    {
+        "css": "skill-js",
+        "skillName": "Java Script",
+        "skillLevel": 40
+    },
+    {
+        "css": "skill-j",
+        "skillName": "Java",
+        "skillLevel": 70
+    },
+    {
+        "css": "skill-spring",
+        "skillName": "Spring",
+        "skillLevel": 60
+    },
+    {
+        "css": "skill-sql",
+        "skillName": "SQL",
+        "skillLevel": 75
+    }
+]
